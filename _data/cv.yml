@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Sanzhar Umbet
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20.01.2001
     - name: Languages
-      value: English, German
+      value: Kazakh, English, Russian
 
 - title: Education
   type: time_table
