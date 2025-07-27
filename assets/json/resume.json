@@ -92,10 +92,7 @@
       "startDate": "2022-11-01",
       "endDate": "2023-05-01",
       "summary": "Worked on RL-based control for motors in autonomous systems.",
-      "highlights": [
-        "Improved PMSM control with RL techniques",
-        "Translated Simulink models to Python"
-      ]
+      "highlights": ["Improved PMSM control with RL techniques", "Translated Simulink models to Python"]
     }
   ],
   "volunteer": [],
@@ -218,11 +215,7 @@
     {
       "name": "Kazakh Language Tech Contributions",
       "summary": "Open-source and academic work focused on improving NLP tools for Kazakh.",
-      "highlights": [
-        "Kazakh SFT Dataset",
-        "KazBench-KK Benchmark",
-        "Inverse normalization models"
-      ],
+      "highlights": ["Kazakh SFT Dataset", "KazBench-KK Benchmark", "Inverse normalization models"],
       "startDate": "2023-01-01",
       "endDate": "",
       "url": ""
